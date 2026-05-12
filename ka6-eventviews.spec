@@ -6,6 +6,7 @@
 %define		qtver		5.15.2
 %define		kaname		eventviews
 Summary:	Library for creating events
+Summary(pl.UTF-8):	Biblioteka do tworzenia zdarzeń
 Name:		ka6-%{kaname}
 Version:	26.04.1
 Release:	1
